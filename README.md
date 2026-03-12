@@ -1,0 +1,3 @@
+# 🚑 Smart Ambulance & Emergency Coordination System
+
+Setting up complete project...
