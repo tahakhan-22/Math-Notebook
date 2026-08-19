@@ -1,0 +1,27 @@
+# Node & Frontend
+node_modules/
+dist/
+.vite/
+*.log
+
+# Python & Backend
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.env
+.venv/
+venv/
+env/
+
+# Datasets & Scratch
+model/
+datasets/
+scratch/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
